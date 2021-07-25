@@ -18,7 +18,7 @@ Set minimum stability to dev
 
 Then
 ```
-composer require sc0vu/web3.php dev-master
+composer require terranc/web3.php 
 ```
 
 Or you can add this line in composer.json
